@@ -29,4 +29,3 @@ The following is the instruction to run task Ar->Pr/Cl/Rw on the Office-Home dat
 ```bash
 python train.py --feat_dim 1024 --hid_dim 2048 --dataset office-home --net resnet50 --iter_epoch 800 --source 0 --batch_size 1 --bs_limit 32 --max_epoch 20 --sub_log test --workers 4 --gpu_id 0
 ```
->>>>>>> 7a285f2 (first commit)
