@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# SDN
-=======
+
 # Semantic Dual-Adversarial Network for Blended-Target Domain Adaptation
 **A demo code of SDN method.**
 
